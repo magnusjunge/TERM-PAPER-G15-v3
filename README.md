@@ -11,7 +11,7 @@ Run in the provided **TECH2 Anaconda environment**.
 Deliverable: one Jupyter notebook that runs without errors.  
 Data source: [NY Fed SCE](https://www.newyorkfed.org/microeconomics/sce)
 
-## The use of AI: (This section is also at the bottom of the notebook)
+## The use of AI and Online Sources: (This section is also at the bottom of the notebook)
 Throughout this assignment, we relied on a variety of online resources to improve the efficiency, clarity, and precision of our code. For general programming issues—such as managing data frames in Pandas, debugging, and refining visualization syntax—we referred to Stack Overflow and the official documentation for Pandas and Matplotlib. These helped us apply recognized best practices in data handling and presentation.  
 
 We also made use of ChatGPT and GitHub Copilot to support the coding and writing process. These tools assisted in structuring the workflow, resolving logic errors, and implementing advanced plotting functions, including the integration of intersection points between event markers and line charts. Additionally, we used them for spelling and grammar checks in explanatory and conclusion sections to improve readability and coherence.  
